@@ -29,9 +29,9 @@ Ejemplos de comportamiento inaceptable:
 *   Publicar información privada de otras personas (como direcciones físicas o electrónicas) sin su permiso explícito.
 *   Cualquier otra conducta que pueda considerarse inapropiada en un entorno profesional.
 
-## Responsabilidades de Aplicación
+## Responsabilidades de Cumplimiento
 
-Los administradores de la comunidad son responsables de clarificar y aplicar nuestros estándares de comportamiento y tomarán las medidas correctivas que consideren apropiadas y justas ante cualquier conducta que juzguen inapropiada, amenazante, ofensiva or perjudicial.
+Los administradores de la comunidad son responsables de clarificar y hacer cumplir nuestros estándares de comportamiento y tomarán las medidas correctivas que consideren apropiadas y justas ante cualquier conducta que juzguen inapropiada, amenazante, ofensiva o perjudicial.
 
 Los administradores de la comunidad tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, *commits*, código, ediciones de wiki, *issues* y otras contribuciones que no se ajusten a este Código de Conducta. Cuando sea apropiado, comunicarán los motivos de sus decisiones de moderación.
 
@@ -41,11 +41,11 @@ Este Código de Conducta se aplica tanto dentro de los espacios del proyecto com
 
 ## Cumplimiento
 
-Los casos de comportamiento abusivo, de acoso o inaceptable pueden ser reportados al equipo de la comunidad responsable de su cumplimiento a través de [INSERTAR MÉTODO DE CONTACTO]. Todas las quejas serán revisadas e investigadas de forma rápida y justa.
+Los casos de comportamiento abusivo, de acoso o inaceptable pueden ser reportados al equipo de la comunidad responsable del cumplimiento a través de [INSERTAR MÉTODO DE CONTACTO]. Todas las quejas serán revisadas e investigadas de forma rápida y justa.
 
 El equipo de administración de la comunidad está obligado a respetar la privacidad y la seguridad de la persona que reporta un incidente.
 
-## Pautas para la Aplicación
+## Pautas de Cumplimiento
 
 Los administradores de la comunidad seguirán estas Pautas de Impacto en la Comunidad para determinar las consecuencias de cualquier acción que consideren una violación de este Código de Conducta:
 
@@ -57,9 +57,9 @@ Los administradores de la comunidad seguirán estas Pautas de Impacto en la Comu
 
 ### 2. Aviso
 
-**Impacto en la Comunidad**: Una infracción grave o una serie de acciones continuadas.
+**Impacto en la Comunidad**: Una infracción o una serie de acciones continuadas.
 
-**Consecuencia**: Un aviso con consecuencias por comportamiento prolongado. Se exigirá un cese de la interacción con las personas involucradas (incluyendo interacciones no solicitadas con quienes aplican el Código de Conducta) por un período de tiempo determinado. Esto incluye espacios de la comunidad y canales externos como redes sociales. Incumplir estos términos puede llevar a una expulsión temporal o permanente.
+**Consecuencia**: Un aviso con consecuencias por comportamiento continuado. Se exigirá un cese de la interacción con las personas involucradas (incluyendo interacciones no solicitadas con quienes aplican el Código de Conducta) por un período de tiempo determinado. Esto incluye espacios de la comunidad y canales externos como redes sociales. Incumplir estos términos puede llevar a una expulsión temporal o permanente.
 
 ### 3. Expulsión Temporal
 
@@ -69,7 +69,7 @@ Los administradores de la comunidad seguirán estas Pautas de Impacto en la Comu
 
 ### 4. Expulsión Permanente
 
-**Impacto en la Comunidad**: Demostrar un patrón sistemático de violaciones de las normas de la comunidad, incluyendo conductas inapropiadas y sostenidas, acoso a individuos o agresiones y menosprecios hacia grupos de personas.
+**Impacto en la Comunidad**: Demostrar un patrón sistemático de violaciones de las normas de la comunidad, incluyendo conductas inapropiadas y sostenidas, acoso a individuos, o agresiones y menosprecio hacia grupos de personas.
 
 **Consecuencia**: Una prohibición permanente de cualquier tipo de interacción pública dentro de la comunidad del proyecto.
 
@@ -77,7 +77,7 @@ Los administradores de la comunidad seguirán estas Pautas de Impacto en la Comu
 
 Este Código de Conducta está adaptado del [Contributor Covenant][homepage], versión 2.1, disponible en https://www.contributor-covenant.org/es/version/2/1/code_of_conduct.html
 
-Las Pautas de Impacto en la Comunidad están inspiradas en la [escalera de aplicación del código de conducta de Mozilla](https://github.com/mozilla/diversity).
+Las Pautas de Impacto en la Comunidad están inspiradas en la [escalera de cumplimiento del código de conducta de Mozilla](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
