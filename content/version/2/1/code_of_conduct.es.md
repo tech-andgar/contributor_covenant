@@ -78,7 +78,7 @@ El equipo de administración de la comunidad seguirá las siguientes pautas de i
 Este Código de Conducta está adaptado del [Contributor Covenant][homepage], versión 2.1, disponible en  
 https://www.contributor-covenant.org/es/version/2/1/code_of_conduct.html.
 
-Las Pautas de Impacto en la Comunidad se inspiraron en la [escalera de cumplimiento del código de conducta de Mozilla](https://github.com/diversity).
+Las Pautas de Impacto en la Comunidad se inspiraron en la [escalera de cumplimiento del código de conducta de Mozilla](https://github.com/mozilla/diversity).
 
 [homepage]: https://www.contributor-covenant.org
 
