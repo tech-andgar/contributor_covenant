@@ -13,7 +13,7 @@ If the issue or feature request you are submitting is not already listed in the 
 ## Adding a Project to the List of Adopters
 
 * Fork the repository.
-* Add a new row to the [adopters.csv](assets/adopters.csv) file,
+* Add a new row to the [adopters.csv](static/adopters.csv) file,
   with the project name in the first column, and the project URL in the second column.
 * Open a pull request.
 
@@ -43,13 +43,16 @@ If you are interested in doing a translation, please follow these steps:
 
 1. Fork the repository and make a branch for your translation.
 1. If it's a new language, add it to `config.toml`, with a localized name and language code/optional region (e.g. `pt` or `pt-br`).
-1. Create a markdown file with your translation in `version/2/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.)
+1. Create a markdown file with your translation in `version/3/0/code_of_conduct.LANGUAGECODE.md`. (Underscores, not hyphens.) Use the English markdown file as an example.
+1. Update the two fields at the top of your new markdown file: reportingPlaceholder, which should contain the exact placeholder text in the "how to report" section, and the enforcementPlaceholder, which should contain the exact placeholder text in the "Addressing and Repairing Harm" section.
 1. Open a pull request.
 1. We will put out a call to have one or more other native speakers review the translation.
 1. Collaborate until the translation is satisfactory.
 1. We will merge your translation!
 1. HTML and plain text versions are automatically generated from your markdown file.
 1. A link to your translation is automatically added to the translations page.
+
+Note that we will not accept machine translations.
 
 ### Developers
 
@@ -78,7 +81,7 @@ If you are using [Homebrew](https://brew.sh) on macOS:
 brew install hugo
 ```
 
-3. From the repository's root directory, start the development server and then view it at http://localhost:1313/.
+3. From the respository's root directory, start the development server and then view it at http://localhost:1313/.
 
 ```bash
 hugo server -D
