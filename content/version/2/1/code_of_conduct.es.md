@@ -37,7 +37,7 @@ Este equipo tendrá el derecho y la responsabilidad de eliminar, editar o rechaz
 
 ## Alcance
 
-Este Código de Conducta se aplica tanto dentro de los espacios del proyecto como en cualquier otro espacio donde una persona esté representando oficialmente a la comunidad. Algunos ejemplos incluyen el uso de una cuenta de correo institucional, publicaciones en redes sociales oficiales o la participación como representante designado/a en eventos presenciales o virtuales.
+Este Código de Conducta se aplica tanto dentro de los espacios del proyecto como en cualquier otro espacio donde una persona esté representando oficialmente a la comunidad. Algunos ejemplos incluyen el uso de una cuenta de correo institucional, publicaciones en redes sociales oficiales o la participación en representación de la comunidad en eventos presenciales o virtuales.
 
 ## Canal de reporte
 
