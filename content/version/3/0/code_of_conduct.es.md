@@ -1,99 +1,112 @@
 +++
-title = "Acuerdo de Colaboradores 3"
+title = "Código de Conducta para Colaboradores 3.0 (Contributor Covenant)"
 version = "3.0"
-aliases = ["/version/3/0"]
-reportingPlaceholder = "[NOTA: describa la forma de reportar aquí.]"
-enforcementPlaceholder = "[NOTA: Los remedios y reparaciones señalados abajo son sugerencias basadas en buenas prácticas en la aplicación de códigos de conducta. Si su comunidad ha establecido su propio proceso de aplicación, asegúrese de editar esta sección para describir sus propias políticas.]"
+aliases = ["/version/3/0/es"]
+reportingPlaceholder = "[NOTA: describe aquí cómo se pueden enviar reportes.]"
+enforcementPlaceholder = "[NOTA: Las medidas de aplicación y reparación que se describen son ejemplos de buenas prácticas. Si tu comunidad tiene un proceso propio, edita esta sección para describirlo.]"
 +++
 
-# Código de Conducta del Acuerdo de Colaboradores 3.0
+# Código de Conducta para Colaboradores 3.0 (Contributor Covenant)
 
 ## Nuestro compromiso
 
-Nos comprometemos a hacer que nuestra comunidad sea acogedora, segura y equitativa para todas.
+Nos comprometemos a que nuestra comunidad sea un lugar seguro, abierto e inclusivo para todas las personas.
+Nos comprometemos a fomentar un entorno que respete y promueva la dignidad, los derechos y las contribuciones de cada persona, sin distinción de raza, etnia, casta, color, edad, características físicas, neurodiversidad, discapacidad, sexo o género, identidad o expresión de género, orientación sexual, idioma, creencias o religión, origen nacional o social, situación económica, nivel educativo u otra condición. Todas las personas que participen de buena fe y cumplan este Código tendrán los mismos privilegios de participación.
 
-Estamos comprometides a fomentar un ambiente que respete y promueva la dignidad, los derechos y las contribuciones de todas las personas, sin distinción de características incluyendo raza, origen étnico, casta, color, edad, características físicas, neurodiversidad, discapacidad, sexo y género, identidad o expresión de género, orientación sexual, idioma, filosofía o religión, nacionalidad u origen social, condición socioeconómica, nivel de educación, u otra condición. Extendemos los mismos privilegios de participación para quienes participan con buena fe y conforme con este Acuerdo.  
+## Comportamientos que fomentamos
 
+Reconocemos que las normas sociales pueden variar y que nuestras palabras o acciones pueden interpretarse de forma distinta según la cultura, el entorno o el idioma materno de cada persona.
+Con estas consideraciones en mente, acordamos actuar con atención y respeto mutuo, guiándonos por nuestros valores compartidos, entre ellos:
 
-## Comportamientos reforzados
+1. Respetar el **propósito de nuestra comunidad**, nuestras actividades y nuestras formas de encuentro.
+2. Interactuar de forma **amable y honesta**.
+3. Respetar **puntos de vista y experiencias diferentes**.
+4. **Asumir la responsabilidad** de nuestras acciones y contribuciones.
+5. Dar y recibir **retroalimentación constructiva** con respeto.
+6. **Reparar el daño** cuando ocurra.
+7. Mantener un ambiente que promueva y sostenga el **bienestar de la comunidad**.
 
-Al aceptar diferencias en las normas sociales, todes nos esforzamos por cumplir las expectativas de comportamiento positivo de nuestra comunidad. También entendemos que nuestras palabras y acciones pueden ser interpretadas de forma diferente a nuestra intención basada en cultura, ambiente o idioma nativo.
+## Comportamientos que no permitimos
 
-Con estas consideraciones en mente, acordamos comportarnos de forma consciente hacia le otre y actuar en formas que centren nuestro valores compartidos, incluyendo:
+Acordamos limitar los siguientes comportamientos en nuestra comunidad. Los casos, las amenazas y la promoción de estos comportamientos constituyen una violación de este Código de Conducta.
+1.  **Acoso**: Ignorar límites expresados de forma explícita o continuar con atención personal no deseada después de una solicitud clara de detenerse.
+2. **Ataques personales**: Hacer comentarios insultantes, degradantes o peyorativos dirigidos a una persona integrante de la comunidad o a un grupo.
+3. **Estereotipos o discriminación**: Atribuir la personalidad o el comportamiento de una persona a identidades o características inmutables.
 
-1. Respetar el **propósito de nuestra comunidad**, nuestras actividades, y nuestras formas de reunión.
-2. Interactuar de forma **amable y honesta** con otres.
-3. Respetar **diferentes puntos de vista** y experiencias.
-4. **Asumir responsabilidad** por nuestras acciones y contribuciones.
-5. Ofrecer y aceptar **comentarios constructivos** con gentileza.
-6. Comprometernos a **reparar el daño** cuando ocurra.
-7. Comportarnos de otras formas que promuevan y sostengan el **bienestar de nuestra comunidad**.
+4. **Conducta sexual inapropiada**: Comportarse de manera que, según el contexto o propósito de la comunidad, se considere una intimidad inapropiada.
 
+5. **Violación de la confidencialidad**: Compartir o actuar sobre información personal o privada de alguien sin su permiso.
 
-## Comportamientos restringidos
+6. **Poner en riesgo**: Causar, alentar o amenazar con violencia u otro tipo de daño hacia una persona o grupo.
 
-Acordamos restringir los siguientes comportamientos en nuestra comunidad. Casos, amenazas y la promoción de estos comportamientos son violaciones a este Código de Conducta.
+7. Cualquier otra conducta que **amenace el bienestar** de nuestra comunidad.
 
-1. **Acoso.** Violar los limites explícitamente expresados, o actuar con atención personal innecesaria después de claras solicitudes de detenerse.
-2. **Ataques personales.** Hacer comentarios insultantes, degradantes o peyorativos dirigidos a una persona integrante de la comunidad o a un grupo de personas.
-3. **Estereotipado o discriminación.** Caracterizar la personalidad o el comportamiento de cualquiera con base en rasgos o identidades inmutables.
-4. **Sexualización.** Comportarse de forma que por lo general sería considerada de una intimidad inapropiada en el contexto o propósito de la comunidad.
-5. **Violación de confidencialidad**. Compartir o actuar sobre los datos personales o información privada sin su consentimiento.
-6. **Poner en peligro.** Causar, motivar o amenazar con violencia u otro tipo de daño hacia una persona o grupo.
-7. Comportarse de otras formas que **amenacen el bienestar** de nuestra comunidad.
 
 ### Otras restricciones
 
-1. **Identidad engañosa.** Hacerse pasar por alguien más por cualquier razón, o pretender ser alguien más para evadir acciones para el cumplimiento de acuerdos.
-2. **No dar crédito a las fuentes.** No dar crédito de forma apropiada a las fuentes del contenido contribuido.
-3. **Materiales promocionales**. Compartir contenido de mercadeo o comercial de formas que no sigan las normas de la comunidad.
-4. **Comunicación irresponsable.** Fallar en la presentación responsable de contenido que incluya, enlace o describa cualquier otro comportamiento restringido.
+1. **Identidad engañosa**: Hacerse pasar por otra persona por cualquier motivo, o fingir ser alguien más para evadir acciones de cumplimiento de este código.
+2. **No dar crédito a las fuentes**: No reconocer adecuadamente las fuentes del contenido que compartes o aportas.
+3. **Material promocional**: Compartir contenido publicitario o comercial de forma que no cumpla las normas de la comunidad.
+4. **Comunicación irresponsable**: presentar de manera irresponsable contenido que incluya, enlace o describa cualquiera de los comportamientos restringidos.
 
+## Cómo reportar un problema
 
-## Reportar un problema
+Las tensiones pueden ocurrir en la comunidad, aun cuando se colabora con la mejor intención. No todos los conflictos son una infracción al Código de Conducta. Este Código fomenta normas y comportamientos que ayudan a evitar conflictos y minimizar el daño.
 
-Las tensiones pueden ocurrir entre personas integrantes de la comunidad, incluso cuando están haciendo lo mejor posible para colaborar. No todo conflicto representa una violación al código de conducta, y este Código de Conducta refuerza comportamientos y normas que pueden ayudar a evitar conflictos y minimizar el daño.
+Cuando se presente un incidente, es importante informarlo sin demora. Para reportar una posible infracción, **[NOTA: indique aquí el medio de reporte.]**
 
-Cuando un incidente ocurre, es importante reportarlo pronto. Para reportar una posible violación, **[NOTA: describa la forma de reportar aquí.]**
+Los moderadores de la comunidad atienden con seriedad los reportes de posibles violaciones y se esfuerzan por responder con prontitud. Investigan cada caso revisando mensajes, registros y grabaciones, o entrevistando a testigos y participantes. Mantendrán el proceso de investigación y las medidas adoptadas tan transparentes como sea posible, priorizando la seguridad y la confidencialidad. Para cumplir con estos principios, las acciones de cumplimiento se realizan en privado con las partes involucradas, aunque, si existe acuerdo, se puede informar a la comunidad como parte de la resolución.
 
-El equipo de Moderadores de la Comunidad toma los reportes de violaciones con seriedad y hará todo lo posible por responder a tiempo. Investigará todos los reportes de violaciones al código de conducta, revisando mensajes, bitácoras y grabaciones, o entrevistando personas testigas y otres participantes. El equipo de Moderadores de la Comunidad mantendrá la investigación y las acciones de cumplimento tan transparentes como sea posible, priorizando la seguridad y confidencialidad. Para honrar estos valores, las acciones de cumplimiento se llevarán a cabo en privado con las partes involucradas, y la comunicación hacia toda la comunidad puede ser algo de lo que se acuerde mutuamente al llegar a una resolución.
+## Abordar y Reparar el Daño
+** [NOTA: Los remedios y reparaciones que se describen a continuación son sugerencias basadas en buenas prácticas de aplicación de códigos de conducta. Si tu comunidad ya cuenta con un proceso de cumplimiento establecido, asegúrate de editar esta sección para describir tus propias políticas.]**
 
+Si la investigación del equipo de Moderadores de la Comunidad concluye que se ha violado este Código de Conducta, se podrá usar la siguiente escala de medidas para decidir la mejor forma de reparar el daño, según el impacto del incidente en las personas involucradas y en la comunidad en general.
+Dependiendo de la gravedad de la violación, se podrán omitir los pasos iniciales de la escala.
 
-## Atender y reparar el daño
-
-**[NOTA: Los remedios y reparaciones señalados abajo son sugerencias basadas en buenas prácticas en la aplicación de códigos de conducta. Si su comunidad ha establecido su propio proceso de aplicación, asegúrese de editar esta sección para describir sus propias políticas.]**
-
-Si una investigación del equipo de Moderadores de la Comunidad encuentra que este Código de Conducta ha sido violado, la siguiente escala de cumplimiento puede ser usada para determinar la mejor forma de repara el daño, con base en el impacto del incidente hacia las personas involucradas y hacia toda la comunidad. Dependiendo de la severidad de la violación, los peldaños más bajos de la escala se pueden saltar.
 
 1) Advertencia
-   1) Evento: Una violación que involucra un único incidente o una serie de incidentes.
-   2) Consecuencia: Una advertencia privada por escrito de parte del equipo de Moderadores de la Comunidad.
-   3) Reparación: Ejemplos de reparación incluyen una disculpa privada por escrito, aceptación de responsabilidad y buscar clarificación de las expectativas.
-2) Actividades limitadas temporalmente
-   1) Evento: Un incidente repetido de una violación que antes resultó en una advertencia, o la primera incidencia de una violación más seria.
-   2) Consecuencia: Una advertencia privada con un periodo limitado de calma, diseñado para subrayar lo serio de la situación y dar a las integrantes de la comunidad involucradas tiempo para procesar el incidente. El periodo de calma puede ser limitado a canales de comunicación particulares o interacciones con integrantes de la comunidad particulares.
-   3) Reparación: Ejemplos de reparación pueden incluir dar una disculpa, usar el periodo de calma para reflexionar sobre las acciones y el impacto, y ser consciente al reingresar a los espacios de la comunidad cuando se acabe este periodo.
+    1) Evento: Una violación que implique un solo incidente o una serie de incidentes.
+    2) Consecuencia: Una advertencia privada y por escrito del equipo de Moderadores de la Comunidad.
+    3) Reparación: Ejemplos de reparación incluyen una disculpa privada por escrito, el reconocimiento de responsabilidad y la solicitud de aclaraciones sobre las expectativas.
+
+2) Actividades temporalmente limitadas
+    1) Evento: reincidencia en una violación que antes resultó en advertencia, o primer caso de una violación más grave.
+    2) Consecuencia: Advertencia privada y por escrito con un período de pausa temporal para remarcar la gravedad y dar tiempo a las personas involucradas para procesar el incidente. La pausa puede limitarse a ciertos canales de comunicación o interacciones con personas específicas de la comunidad.
+    3) Reparación: Incluir una disculpa, usar el período para reflexionar sobre las acciones y su impacto, y reincorporarse de forma cuidadosa una vez finalice la pausa.
+
 3) Suspensión temporal
-   1) Evento: Un patrón de violaciones repetidas a las que el equipo de Moderadores de la Comunidad ha intentado atender con advertencias, o una única violación seria.
-   2) Consecuencia: Una advertencia privada escrita con las condiciones de regreso después de la suspensión. En general, las suspensiones temporales le dan a la persona suspendida tiempo para reflexionar sobre su comportamiento y posibles acciones correctivas.
-   3) Reparación: Ejemplos de reparación incluyen respetar el espíritu de la suspensión, aceptar las condiciones especificadas para el regreso, ser conscientes de cómo reintegrarse con la comunidad cuando la suspensión sea levantada.
-4) Prohibición permanente
-   1) Evento: Un patrón de repetidas violaciones al código de conducta que otros pasos de la escala no han podido resolver, o una violación tan seria que el equipo de Moderadores de la Comunidad determina que no hay forma de mantener la comunidad segura con esta persona como integrante.
-   2) Consecuencia: Prohibido el acceso a todos los espacios, herramientas y canales de comunicación de la comunidad. En general, la prohibición permanente debería usarse rara vez, debería tener un fuerte razonamiento detrás, y debería recurrirse a esta sólo si el trabajo con otras formas de remediación no cambió el comportamiento.
-   3) Reparación: No es posible reparar los casos de esta severidad.
+   1) Evento: Un patrón de violaciones repetidas que el equipo de Moderadores de la Comunidad ya intentó abordar con advertencias, o una única violación grave.
+    2) Consecuencia: Una advertencia privada por escrito con condiciones para el regreso tras la suspensión. En general, las suspensiones temporales buscan dar tiempo a la persona para reflexionar sobre su conducta y posibles acciones correctivas.
+   2) Reparación: Respetar el sentido de la suspensión, cumplir las condiciones indicadas para el regreso y reincorporarse de forma cuidadosa y consciente cuando la suspensión termine.
+4) Expulsión permanente
+    1) Evento: patrón de violaciones repetidas al código de conducta que no se han resuelto con las medidas anteriores, o una violación tan grave que el equipo de Moderadores determine que no es posible mantener la seguridad de la comunidad mientras esta persona siga siendo miembro.
+    2) Consecuencia: se retira el acceso a todos los espacios, herramientas y canales de comunicación de la comunidad. En general, la expulsión permanente debe aplicarse en casos excepcionales, con una justificación sólida, y solo cuando otras medidas no hayan logrado cambiar la conducta.
+    3) Reparación: en casos de esta gravedad no existe reparación posible.
 
-Esta escala de cumplimiento pretende ser una guía. No limita la capacidad de les Responsables de la Comunidad de usar su discreción y juicio al mantener los mejores intereses de nuestra comunidad.
-
+Esta escala de medidas es una guía y no limita la capacidad del equipo de Moderación para usar su criterio y juicio, siempre velando por el mejor interés de la comunidad.
 
 ## Alcance
-
-Este Código de Conducta aplica dentro de todos los espacios comunitarios, y también aplica cuando una persona está representando a la comunidad de forma oficial en público o en otros espacios. Ejemplos de representación de nuestra comunidad incluyen usar una dirección de correo oficial, publicar en una cuenta oficial de redes sociales, o actuar como una representativa designada en un evento virtual o presencial.
-
+Este Código de Conducta se aplica en todos los espacios de la comunidad, así como cuando una persona representa oficialmente a la comunidad en espacios públicos u otros entornos. Ejemplos de representación oficial incluyen usar una dirección de correo electrónico oficial, publicar en una cuenta oficial de redes sociales o actuar como representante designado en un evento, ya sea en línea o presencial.
 
 ## Atribución
 
-Este Código de Conducta fue adaptado del Contributor Covenant, versión 3.0, disponible de forma permanente en [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
+Este Código de Conducta se ha adaptado de la Contributor Covenant, versión 3.0, disponible permanentemente en [https://www.contributor-covenant.org/version/3/0/](https://www.contributor-covenant.org/version/3/0/).
 
-El Acuerdo de Contribuyentes es cuidado por la Organization for Ethical Source y está licenciado bajo CC BY-SA 4.0. Para ver una copia de esta licencia, puede visitar [https://creativecommons.org/licenses/by-sa/4.0/deed.es](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
 
-Para respuestas a preguntas frecuentes acerca del Acuerdo de Colaboradores, vea [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Las traducciones están en [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Recursos adicionales para el cumplimento y guías de comunidad se pueden encontrar en [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). La escala de cumplimiento está inspirada por el trabajo del [equipo de código de conducta de Mozilla](https://github.com/mozilla/inclusion).
+El Contributor Covenant es administrado por la Organization for Ethical Source y se publica bajo la licencia CC BY-SA 4.0. Para ver una copia de esta licencia, visita: [https://creativecommons.org/licenses/by-sa/4.0/deed.es](https://creativecommons.org/licenses/by-sa/4.0/deed.es)
+
+Para obtener respuestas a las preguntas más comunes sobre Contributor Covenant, consulta la FAQ en [https://www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Las traducciones están disponibles en [https://www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations). Además, se proporcionan recursos de cumplimiento y guías comunitarias en [https://www.contributor-covenant.org/resources](https://www.contributor-covenant.org/resources). La escala de medidas fue inspirada por el trabajo de [la equipo de código de conducta de Mozilla](https://github.com/mozilla/inclusion).
+
+
+Adaptado de Contributor Covenant 3.0:
+<https://www.contributor-covenant.org/version/3/0/>
+
+Licencia: CC BY-SA 4.0
+<https://creativecommons.org/licenses/by-sa/4.0/>
+
+Más información:
+-   Preguntas frecuentes: <https://www.contributor-covenant.org/faq>
+-   Traducciones: <https://www.contributor-covenant.org/translations>
+-   Recursos: <https://www.contributor-covenant.org/resources>
+
+La escala de medidas se inspiró en el [Código de Conducta de Mozilla](https://github.com/mozilla/inclusion).
